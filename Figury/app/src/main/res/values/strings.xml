@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Figura</string>
+    <string name="koło">koło</string>
+    <string name="elipsa">elipsa</string>
+    <string name="prostokąt">prostokąt</string>
+    <string name="prostokąt_okrągły">prostokąt okrągły</string>
+    <string name="łuk">łuk</string>
+    <string name="linia">linia</string>
+</resources>
